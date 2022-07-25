@@ -10,4 +10,4 @@ Unicorns can also refer to a recruitment phenomenon within the human resources (
 
 ## Tecnologias 
 
--Python
+Utilizei as seguintes bibliotecas do Python: numpy, pandas, matplotlib e seaborn.
